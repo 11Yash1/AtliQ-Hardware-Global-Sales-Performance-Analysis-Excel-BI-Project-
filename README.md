@@ -62,19 +62,19 @@ Four interactive dashboards were created to visualize business performance from 
 
 #### 📆 Fiscal Year Analysis  
 > Tracks Net Sales, COGS, and GM% across fiscal months.  
-![Fiscal View](Screenshots/Fiscal_Year_Analysis.png)
+![P&L By Fiscal Year Months](P&L By Months.png)
 
 #### 🌍 Market Insights  
 > Compares profitability across global markets using color-coded heatmaps.  
-![Market View](Screenshots/Market_Analysis.png)
+![Market View](P&L By Markets.png)
 
 #### 👥 Customer Performance  
 > Displays YoY sales growth and contribution of top customers.  
-![Customer View](Screenshots/Customer_Performance.png)
+![Customer View](Customer Performance.png)
 
 #### 🎯 Market vs Target Performance  
 > Highlights performance gaps between targets and actuals for each region.  
-![Target View](Screenshots/Sales_Performance.png)
+![Target View](Performance VS Target.png)
 
 ---
 
