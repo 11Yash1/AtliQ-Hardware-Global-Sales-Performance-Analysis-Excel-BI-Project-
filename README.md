@@ -117,7 +117,7 @@ Four interactive dashboards were created to visualize business performance from 
 | `Excel Project (Customer Net Sales Report).xlsx` | Customer performance comparison |
 | `Excel Project (Market Performance vs Target).xlsx` | Regional performance vs targets |
 
-🔗 [Download Excel Project (Google Drive)](YOUR_EXCEL_PROJECT_DRIVE_LINK_HERE)
+🔗 [Download Excel Project (Google Drive)](https://drive.google.com/file/d/1bzLO7r_hEFuCKO1pAWbwLHdYQxUnkVHB/view?usp=sharing)
 
 ---
 
