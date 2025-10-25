@@ -120,7 +120,7 @@ Developed four interactive dashboards showcasing different business perspectives
 | `Global_Sales_Customers.xlsx` | Customer performance report |
 | `Global_Sales_Target.xlsx` | Market vs Target dashboard |
 
-🔗 [Download Excel Project (Google Drive)](https://drive.google.com/uc?export=download&id=1GYlwJxiEfM2DaFqO9cdjtdxP3EQYYzD4)
+🔗 [Download Excel Project (Google Drive)](https://drive.google.com/file/d/1bzLO7r_hEFuCKO1pAWbwLHdYQxUnkVHB/view?usp=sharing)
 
 ---
 
