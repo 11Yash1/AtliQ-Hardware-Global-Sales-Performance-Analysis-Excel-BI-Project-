@@ -125,7 +125,7 @@ Four interactive dashboards were created to visualize business performance from 
 
 Star Schema built using fact and dimension relationships for accurate aggregation and time intelligence.  
 
-![Data Model](Screenshots/Data_Model.png)
+![Data Model](Excel_Project_Data_Model.png)
 
 ---
 
