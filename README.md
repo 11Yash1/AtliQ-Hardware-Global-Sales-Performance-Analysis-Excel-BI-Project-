@@ -140,15 +140,7 @@ I aim to bridge data and decision-making with intuitive, visually rich analytics
 
 ---
 
-⭐ *If you found this project insightful, don’t forget to star the repository!*  
-
----
-
-### 💡 Why This Project Stands Out
-- Demonstrates **Excel as a complete BI ecosystem** (ETL → Modeling → Visualization).  
-- Built using **enterprise reporting standards** used in firms like Deloitte, PwC & KPMG.  
-- Realistic business use case: **global multi-year profitability and sales performance**.  
-- Clean design, clear storytelling, and technically rich modeling prove full-stack Excel BI mastery.  
+⭐ *If you found this project insightful, don’t forget to star the repository!*
 
 ---
 
