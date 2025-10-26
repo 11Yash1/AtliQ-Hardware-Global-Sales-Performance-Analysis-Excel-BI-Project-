@@ -37,7 +37,7 @@ Structured a **Star Schema** model connecting fact and dimension tables:
 
 | Fact Table | Dimension Tables |
 |-------------|------------------|
-| `Sales_Fact` | `dim_customer`, `dim_market`, `dim_product`, `dim_date` |
+| `Fact_Sales_monthly` | `dim_customer`, `dim_market`, `dim_product`, `dim_date` |
 
 Relationships were built using:
 - `Customer Code`  
