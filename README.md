@@ -135,8 +135,8 @@ I’m **Yash Hooda**, an aspiring **Data Analyst** passionate about transforming
 I aim to bridge data and decision-making with intuitive, visually rich analytics.
 
 📍 *Rohtak, Haryana, India*  
-📫 **oneyash11@gmail.com**  
-🌐 [GitHub](https://github.com/11Yash1) | [LinkedIn](https://www.linkedin.com/) *(coming soon)*  
+📫 **Let's Connect:**  
+[LinkedIn](https://www.linkedin.com/in/yash-hooda) • [GitHub](https://github.com/1Yashh) • [Email](mailto:oneyash11@gmail.com)  
 
 ---
 
